@@ -6,7 +6,7 @@
   - (optional) milk, sugar, honey, cold water
 
 ## Instructions
-  - boil water
+  - boil water (100 deg celcius if air pressure differs from normal)
   - put tea leaves in cup
   - pour water in cup
   - let infuse for 2-5 minutes
